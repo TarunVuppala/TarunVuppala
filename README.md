@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TarunVuppala
+- I am a Full Stack Developer.
 - 👀 I’m interested in exploring new things and creating.
-- 🌱 I’m currently learning Web development, UiPath Studio(RPA), Data Structures, and Java.
+- 🌱 I’m currently learning Web development, Data Structures, and Java.
 - 📫 How to reach me ... Mobile Number +91 7989719032, Email-Id - tarun.vuppala26@gmail.com, LinkedIn - www.linkedin.com/in/tarun26
 
 <!---
